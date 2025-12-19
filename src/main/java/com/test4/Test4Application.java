@@ -10,6 +10,7 @@ public class Test4Application {
                 int a=100;
 		    boolean b=true;
 		int b=200;
+                int c=34;
 		SpringApplication.run(Test4Application.class, args);
 	}
 
