@@ -11,6 +11,7 @@ public class Test4Application {
 		    boolean b=true;
 		int b=200;
                 int c=34;
+		int f=34;
 		SpringApplication.run(Test4Application.class, args);
 	}
 
