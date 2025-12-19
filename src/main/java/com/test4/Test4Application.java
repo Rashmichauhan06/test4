@@ -8,6 +8,7 @@ public class Test4Application {
 
 	public static void main(String[] args) {
                 int a=100;
+		    boolean b=true;
 		SpringApplication.run(Test4Application.class, args);
 	}
 
